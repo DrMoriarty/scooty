@@ -156,7 +156,7 @@ height: 100%;
 body{
 height:100%;
 line-height:1.6;
-background-color:#0e0d0d;
+background-color:#c3594b;
 font-size:14px;
 font-family:"pt sans", Arial, sans-serif;
 background-attachment:fixed;
@@ -298,7 +298,8 @@ position:relative;
 margin:0px auto;
 }
 
-.nav {
+
+.nav {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -325,7 +326,8 @@ margin:0px auto;
 }
 
 
-.nav  {
+
+.nav  {
 width:103%; 
 float:left;
 }
