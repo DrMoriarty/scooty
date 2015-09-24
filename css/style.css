@@ -233,7 +233,7 @@ color:#1b191b;
 
 
 .onesection {
-background:#0e0d0d url(../images/blackbackground.png) repeat;
+background:#c36559 url(../images/blackbackground.png) repeat;
 position:relative;
 z-index:700;
 padding-bottom:105px;
@@ -346,7 +346,7 @@ padding:7px ;
 margin:0 0 0 10px;
 color:#fff;
 text-transform:uppercase;
-background:#0e0d0d url(../images/blackbackground.png) repeat;
+background:#c36559 url(../images/blackbackground.png) repeat;
 text-align:center;
 }
 
@@ -394,7 +394,7 @@ padding:7px ;
 margin:0 0 0 10px;
 color:#fff;
 text-transform:uppercase;
-background:#0e0d0d url(../images/blackbackground.png) repeat;
+background:#c36559 url(../images/blackbackground.png) repeat;
 text-align:center;
 }
 
@@ -480,7 +480,7 @@ width:100%;
   display: block;
    padding:7px;
 margin:0 7px ;
-background:#0e0d0d url(../images/blackbackground.png) repeat;
+background:#c36559 url(../images/blackbackground.png) repeat;
 color:#fff;
 font-size:14px;
 text-transform:uppercase;
@@ -2008,7 +2008,7 @@ transform:rotate(0deg);
 
 
 .blognavigation{
-background:#0e0d0d ;
+background:#c36559 ;
 height:80px;
 width:100%;
 text-align:center;
