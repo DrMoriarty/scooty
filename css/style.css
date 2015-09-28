@@ -269,15 +269,15 @@ z-index:700;
 }
 
 .navbar-toggle:hover{
-  background-color: #c2cfbe;
+  background-color: #b85545;
 }
 
 .navbar-toggle:focus{
-   background-color: #c2cfbe;
+   background-color: #b85545;
 }
 
 .menudesktopcolor{
-background:#1b191b;
+background:#b85545;
 
 }
 
@@ -344,9 +344,9 @@ margin:0 auto;
  width:auto;
 padding:7px ;
 margin:0 0 0 10px;
-color:#fff;
+color:#b85545;
 text-transform:uppercase;
-background:#c36559 url(../images/blackbackground.png) repeat;
+background:#b85545 url(../images/blackbackground.png) repeat;
 text-align:center;
 }
 
@@ -355,10 +355,10 @@ text-align:center;
   display: inline-block;
    padding:40px;
 width:100%;
-color:#fff;
+color:#b85545;
 font-size:24px;
 text-transform:uppercase;
-background:#c36559 url(../images/blackbackground.png) no-repeat;
+background:#b85545 url(../images/blackbackground.png) no-repeat;
 border:#fff 0px solid;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
@@ -369,7 +369,7 @@ border:#fff 0px solid;
 .firstnav .navbar-nav > li > a:hover,
 .firstnav .navbar-nav  > li > a:focus {
 color:#c2cfbe;
-border:#c2cfbe 1px solid;
+border:#c2cfbe 0px solid;
 }
 
 
