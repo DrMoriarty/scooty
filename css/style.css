@@ -416,7 +416,7 @@ border:#fff 0px solid;
 .secondnav .navbar-nav > li > a:hover,
 .secondnav .navbar-nav > li > a:focus {
 color:#c2cfbe;
-border:#c2cfbe 1px solid;
+border:#c2cfbe 0px solid;
 }
 
 
@@ -495,7 +495,7 @@ border:#fff 1px solid;
 
 .firstnav .navbar-nav > li > ul > li > a:hover{
 color:#c2cfbe;
-border:#c2cfbe 1px solid;
+border:#c2cfbe 0px solid;
 }
 .firstnav .navbar-nav > li:hover ul{ 
 	left:0;
@@ -542,7 +542,7 @@ border:#fff 1px solid;
 
 .firstnav .navbar-nav > li > ul > li > ul > li > a:hover{
 color:#c2cfbe;
-border:#c2cfbe 1px solid;
+border:#c2cfbe 0px solid;
 }
 /***third level end***/
 
