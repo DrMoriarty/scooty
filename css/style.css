@@ -353,9 +353,9 @@ text-align:center;
 .firstnav .navbar-nav > li > a:link, .firstnav .navbar-nav > li > a:visited {
   position: relative;
   display: inline-block;
-   padding:40px;
+   padding:20px;
 width:224px;
-height:73px;
+height:50px;
 margin:0 auto;
 color:#fff;
 font-size:24px;
