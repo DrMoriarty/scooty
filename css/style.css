@@ -397,7 +397,7 @@ padding:7px ;
 margin:0 0 0 10px;
 color:#fff;
 text-transform:uppercase;
-background:#fff;
+background:#b95545;
 text-align:center;
 }
 
@@ -408,7 +408,7 @@ text-align:center;
 color:#fff;
 font-size:18px;
 text-transform:uppercase;
-border:#fff 0px solid;
+border:#b95545 0px solid;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
        -o-transition: all 0.5s ease;
@@ -417,7 +417,7 @@ border:#fff 0px solid;
 
 .secondnav .navbar-nav > li > a:hover,
 .secondnav .navbar-nav > li > a:focus {
-color:#b95545;
+color:#fff;
 border:#b95545 0px solid;
 }
 
