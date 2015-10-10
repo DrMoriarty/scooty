@@ -365,7 +365,7 @@ width:100%;
 height:20px;
 margin:0 auto;
 color:#fff;
-font-size:23px;
+font-size:18px;
 font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px; line-height: 2px;
 text-transform:uppercase;
 background:#b95545;
@@ -410,7 +410,7 @@ nav a:focus {
   position: relative;
  width:auto;
 padding:2px ;
-margin:0 0 0 0px;
+margin:0 0 0 10px;
 color:#fff;
 font-weight: bold;
 text-transform:uppercase;
