@@ -279,8 +279,6 @@ z-index:700;
 
 .menudesktopcolor{
 background: #b95545;
-border-bottom-width: 7px;
-border-color: #fff;
 
 }
 
@@ -289,6 +287,8 @@ border-color: #fff;
 height: 70px;
  margin-bottom: 0px;
  border-radius: 0;
+ border-bottom-width: 7px;
+ border-color: #fff;
 }
 
 #nav {
