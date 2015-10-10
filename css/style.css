@@ -365,7 +365,7 @@ width:100%;
 height:20px;
 margin:0 auto;
 color:#fff;
-font-size:19px;
+font-size:21px;
 font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px; line-height: 2px;
 text-transform:uppercase;
 background:#b95545;
@@ -423,7 +423,7 @@ text-align:center;
   display: inline-block;
    padding:32px; width:100%;
 color:#fff;
-font-size:19px;
+font-size:21px;
 font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px; line-height: 2px;
 font-weight: bold;
 margin:0 auto;
@@ -447,10 +447,6 @@ border:#b95545 0px solid;
 .firstnav .navbar-nav > .active > a:visited,
 .firstnav .navbar-nav > .active > a:hover,
 .firstnav .navbar-nav > .active > a:focus {
-  background-color: transparent;
-border-radius:0;
--webkit-border-radius:0;
--moz-border-radius:0;
 color:#fff;
 border:#b95545 0px solid;
 }
