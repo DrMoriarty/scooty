@@ -283,7 +283,7 @@ background:#ffffff;
 
 
 .navbar {
-height: 60px;
+height: 70px;
  margin-bottom: 0px;
  border-radius: 0;
 
@@ -360,7 +360,7 @@ margin:0 auto;
 color:#fff;
 font-size:24px;
 text-transform:uppercase;
-background:#b95545;
+background:#fff;
 border:#fff 0px solid;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
