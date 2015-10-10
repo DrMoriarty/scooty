@@ -1554,7 +1554,7 @@ color:#fff;
 
 #parallax2{
 position:relative;
-background:#b95545 url(../images/parallax2.jpg) 0 0 no-repeat fixed;
+background:#b95545;
 width:100%;
 text-align:center;
 margin:0 auto;
