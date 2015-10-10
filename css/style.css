@@ -580,6 +580,8 @@ height:auto;
 float:left;
 position:relative;
 width:100%;
+z-index:0;
+overflow: hidden;
 margin-top:63px;
 }
 
