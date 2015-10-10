@@ -346,7 +346,7 @@ padding:7px ;
 margin:0 0 0 10px;
 color:#fff;
 text-transform:uppercase;
-background:#b95545;
+background:#fff;
 text-align:center;
 }
 
@@ -370,8 +370,8 @@ border:#fff 0px solid;
 
 .firstnav .navbar-nav > li > a:hover,
 .firstnav .navbar-nav  > li > a:focus {
-color:#b95545;
-border:#b95545 0px solid;
+color:#fff;
+border:#fff 0px solid;
 }
 
 
