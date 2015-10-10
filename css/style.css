@@ -233,7 +233,7 @@ color:#1b191b;
 
 
 .onesection {
-background:#c36559 url(../images/blackbackground.png) repeat;
+background:#fff;
 position:relative;
 z-index:700;
 padding-bottom:105px;
@@ -376,7 +376,15 @@ color:#fff;
 border:#b95545 0px solid;
 }
 
+/***.line-separator{
 
+height:1px;
+
+background:#717171;
+
+border-left:1px solid #313030;
+
+}***/
 
 nav a {
 	position: relative;
