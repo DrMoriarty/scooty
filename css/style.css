@@ -263,10 +263,7 @@ z-index:700;
   border: none;
   border-radius: 0;
 
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
+
 }
 
 .navbar-toggle:hover{
@@ -370,10 +367,6 @@ font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0p
 text-transform:uppercase;
 background:#b95545;
 border:#b95545 0px solid;
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
 }
 
 .firstnav .navbar-nav > li > a:hover,
@@ -430,10 +423,6 @@ margin:0 auto;
 height:20px;
 text-transform:uppercase;
 border:#b95545 0px solid;
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
 }
 
 .secondnav .navbar-nav > li > a:hover,
@@ -447,6 +436,10 @@ border:#b95545 0px solid;
 .firstnav .navbar-nav > .active > a:visited,
 .firstnav .navbar-nav > .active > a:hover,
 .firstnav .navbar-nav > .active > a:focus {
+  background-color: transparent;
+border-radius:0;
+-webkit-border-radius:0;
+-moz-border-radius:0;
 color:#fff;
 border:#b95545 0px solid;
 }
@@ -505,10 +498,6 @@ color:#fff;
 font-size:14px;
 text-transform:uppercase;
 border:#fff 0px solid;
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
 }
 
 
@@ -552,10 +541,6 @@ color:#fff;
 font-size:14px;
 text-transform:uppercase;
 border:#fff 0%px solid;
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
 }
 
 
