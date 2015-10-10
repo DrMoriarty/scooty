@@ -430,7 +430,7 @@ border:#b95545 0px solid;
 border-radius:0;
 -webkit-border-radius:0;
 -moz-border-radius:0;
-color:#b95545;
+color:#fff;
 border:#b95545 0px solid;
 }
 
@@ -487,7 +487,7 @@ background:#b95545 url(../images/blackbackground.png) repeat;
 color:#fff;
 font-size:14px;
 text-transform:uppercase;
-border:#fff 1px solid;
+border:#fff 0px solid;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
        -o-transition: all 0.5s ease;
@@ -496,8 +496,8 @@ border:#fff 1px solid;
 
 
 .firstnav .navbar-nav > li > ul > li > a:hover{
-color:#c2cfbe;
-border:#c2cfbe 0px solid;
+color:#fff;
+border:#b95545 0px solid;
 }
 .firstnav .navbar-nav > li:hover ul{ 
 	left:0;
@@ -534,7 +534,7 @@ background:#b95545 url(../images/blackbackground.png) repeat;
 color:#fff;
 font-size:14px;
 text-transform:uppercase;
-border:#fff 1px solid;
+border:#fff 0%px solid;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
        -o-transition: all 0.5s ease;
@@ -543,8 +543,8 @@ border:#fff 1px solid;
 
 
 .firstnav .navbar-nav > li > ul > li > ul > li > a:hover{
-color:#c2cfbe;
-border:#c2cfbe 0px solid;
+color:#fff;
+border:#b95545 0px solid;
 }
 /***third level end***/
 
