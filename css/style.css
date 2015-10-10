@@ -727,14 +727,14 @@ border-bottom:1px solid #c2cfbe;
 /*********artists**********/
 
 .abouttext{
-background:#b95545 url(../images/patternbg1.png) repeat;
+background:#b95545;
 margin-top:42px;
 text-align:center;
 margin-bottom:-168px;
 }
 .abouttextborder{
 margin:13px;
-border:1px #1b191b solid;
+border:0px #b95545 solid;
 display:inline-block;
 padding:40px 20px 20px 20px;
 }
@@ -908,7 +908,7 @@ padding:10px;
 
 
 .bloghomepagetext{
-background:#b95545 url(../images/patternbg1.png) repeat;
+background:#b95545;
 margin-top:21px;
 text-align:center;
 margin:0px 2% 0 2%;
@@ -959,7 +959,7 @@ border:#fff 1px solid;
 .panel-heading{
 width:100%;
 float:left;
-background:#b95545 url(../images/patternbg1.png) repeat;
+background:#b95545;
 border:none;
 border-radius:0;
 webkit-border-radius:0;
@@ -974,11 +974,11 @@ margin:21px 0 0 0;
 
 
 .panel-heading:hover{
-background:#b95545 url(../images/patternbg1.png) repeat;
+background:#b95545;
 }
 
 #accordion h4.active {
-background:#b95545 url(../images/patternbg1.png) repeat;  
+background:#b95545;  
 }
 
 
@@ -1676,7 +1676,7 @@ background:url(../images/deviantarticon.png) center center no-repeat;
 
 
 .additionalpage {
-background:#c2cfbe url(../images/patternbg1.png) repeat;
+background:#c2cfbe;
 padding:15px;
 margin-bottom:84px;
 }
@@ -2108,7 +2108,7 @@ padding:0px;
 
 
 .blogpagetext{
-background:#b95545 url(../images/patternbg1.png) repeat;
+background:#b95545;
 margin-top:21px;
 margin:0px 1% 0 1%;
 padding:15px;
@@ -2221,7 +2221,7 @@ margin:10px;
 }
 
 .commenttext{
-background:#c2cfbe url(../images/patternbg1.png) repeat;
+background:#c2cfbe;
 padding:15px;
 margin-bottom:42px;
 }
