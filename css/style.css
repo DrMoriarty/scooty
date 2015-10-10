@@ -1394,20 +1394,19 @@ border:#fff 0px solid;
 
 
 #main .buttoncontact {
-text-transform:uppercase;
-background:transparent;
-color:#b95545;
-margin: 21px auto 0 auto ;
-padding:15px 40px;
-border:none;
-box-shadow:none;
-outline:none;
-border:0px solid #b95545;
-transition: all .3s;
--moz-transition: all .3s; 
--webkit-transition:all .3s; 
--o-transition: all .3s; 
-width:100%;
+	text-transform: uppercase;
+	background: transparent;
+	color: #b95545;
+	margin: 21px auto 0 auto;
+	padding: 15px 40px;
+	border: none;
+	box-shadow: none;
+	outline: none;
+	border: 0px solid #b95545;
+	transition: all 0.3с ease 0с;
+	-webkit-transition: all 0.3с ease 0с;
+	-o-transition: all 0.3с ease 0с;
+	width: 100%;
 }
 #main .buttoncontact:hover {
 border:1px solid #fff;
@@ -1778,29 +1777,32 @@ display:inline-block;
 }
 
 .bxwrap a.subtitle2{
-margin:0 auto 42px auto;
-text-align:center;
-color:#fff;
-font-style:italic;
-font-size:18px;
-font-family:pt sans;
-text-align:center;
-background: rgba(0, 0, 0, 0.6);
-padding:7px;
-display:inline-block;
-border-top:1px solid #fff;
-border-bottom:1px solid #fff;
-display:inline-block;
-transition: all .3s;
--moz-transition: all .3s; 
--webkit-transition:all .3s; 
--o-transition: all .3s; 
+	margin: 0 auto 42px auto;
+	text-align: center;
+	color: #fff;
+	font-style: italic;
+	font-size: 18px;
+	font-family: pt sans;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.6);
+	padding: 7px;
+	display: inline-block;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	display: inline-block;
+	transition: all 0.3с ease 0с;
+	-webkit-transition: all 0.3с ease 0с;
+	-o-transition: all 0.3с ease 0с;
 }
 
 .bxwrap a.subtitle2:hover{
-border-top:1px solid #c2cfbe;
-border-bottom:1px solid #c2cfbe;
-color:#c2cfbe;
+	border-top: 1px solid #c2cfbe;
+	border-bottom: 1px solid #c2cfbe;
+	color: #c2cfbe;
+	border-top-color: #c2cfbe;
+	border-top-width: 0px;
+	border-bottom-color: #c2cfbe;
+	border-bottom-width: 1px;
 }
 
 
@@ -2284,17 +2286,16 @@ border:#fff 1px solid;
 
 
 #main .contact2 input {
-color:#c2cfbe;
-background:transparent;
-box-shadow:none;
-border:#c2cfbe 1px solid;
-box-shadow:none;
-outline:none;
-height:57px;
-transition: all .3s;
--moz-transition: all .3s; 
--webkit-transition:all .3s; 
--o-transition: all .3s; 
+	color: #c2cfbe;
+	background: transparent;
+	box-shadow: none;
+	border: #c2cfbe 1px solid;
+	box-shadow: none;
+	outline: none;
+	height: 57px;
+	transition: all 0.3с ease 0с;
+	-webkit-transition: all 0.3с ease 0с;
+	-o-transition: all 0.3с ease 0с;
 
 }
 
@@ -2302,9 +2303,11 @@ transition: all .3s;
 
 
 #main .contact2 input:focus {
-box-shadow:none;
-outline:none;
-border:#fff 1px solid;
+	box-shadow: none;
+	outline: none;
+	border: #fff 1px solid;
+	border-color: #fff;
+	border-width: 0;
 }
 
 
@@ -2357,8 +2360,10 @@ transition: all .3s;
 width:102%;
 }
 #main .buttoncontact:hover {
-border:1px solid #fff;
-color:#fff;
+	border: 1px solid #fff;
+	color: #fff;
+	border-color: #fff;
+	border-width: 0;
 }
 
 
@@ -2478,4 +2483,3 @@ cboxMiddleLeft,
 
 
 /******colorbox end******/
-
