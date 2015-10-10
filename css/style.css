@@ -348,7 +348,7 @@ margin:0 auto;
 .firstnav .navbar-nav > li {
   position: relative;
  width:auto;
-padding:7px ;
+padding:2px ;
 margin:0 0 0 10px;
 color:#fff;
 font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px; line-height: 2px;
@@ -409,7 +409,7 @@ nav a:focus {
 .secondnav .navbar-nav > li {
   position: relative;
  width:auto;
-padding:7px ;
+padding:2px ;
 margin:0 0 0 10px;
 color:#fff;
 font-weight: bold;
