@@ -1568,7 +1568,7 @@ z-index:500;
 
 #parallax3{
 position:relative;
-background:#b95545 url(../images/parallax2.jpg) 0 0 no-repeat fixed;
+background:#b95545;
 width:100%;
 text-align:center;
 margin:0 auto;
@@ -1582,7 +1582,7 @@ z-index:500;
 
 #parallax4{
 position:relative;
-background:#b95545 url(../images/parallax2.jpg) 0 0 no-repeat fixed;
+background:#b95545;
 width:100%;
 text-align:center;
 margin:0 auto;
