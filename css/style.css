@@ -346,7 +346,7 @@ padding:7px ;
 margin:0 0 0 10px;
 color:#fff;
 text-transform:uppercase;
-background:#fff;
+background:#b95545;
 text-align:center;
 }
 
@@ -361,7 +361,7 @@ color:#fff;
 font-size:24px;
 text-transform:uppercase;
 background:#b95545;
-border:#fff 0px solid;
+border:#b95545 0px solid;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
        -o-transition: all 0.5s ease;
@@ -371,7 +371,7 @@ border:#fff 0px solid;
 .firstnav .navbar-nav > li > a:hover,
 .firstnav .navbar-nav  > li > a:focus {
 color:#fff;
-border:#fff 0px solid;
+border:#b95545 0px solid;
 }
 
 
