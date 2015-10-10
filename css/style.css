@@ -370,10 +370,6 @@ font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0p
 text-transform:uppercase;
 background:#b95545;
 border:#b95545 0px solid;
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
 }
 
 .firstnav .navbar-nav > li > a:hover,
@@ -429,10 +425,6 @@ font-weight: bold;
 margin:0 auto;
 text-transform:uppercase;
 border:#b95545 0px solid;
--webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
 }
 
 .secondnav .navbar-nav > li > a:hover,
