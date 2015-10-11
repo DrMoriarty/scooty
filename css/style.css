@@ -2336,18 +2336,18 @@ border:#b95545 1px solid;
 #main .contact2 input:focus {
 	box-shadow: none;
 	outline: none;
-	border: #fff 1px solid;
-	border-color: #fff;
+	border: #b95545 1px solid;
+	border-color: #b95545;
 	border-width: 0;
 }
 
 
 
 .commentform2 #main .textarea{
-border:#c2cfbe 1px solid;
+border:#b95545 1px solid;
 font-size:18px;
 
-color:#c2cfbe;
+color:#b95545;
 box-shadow:none;
 outline:none;
 width:100%;
@@ -2369,7 +2369,7 @@ transition: all .3s;
 #main .textarea:focus{
 box-shadow:none;
 outline:none;
-border:#fff 1px solid;
+border:#b95545 1px solid;
 }
 
 
@@ -2377,13 +2377,13 @@ border:#fff 1px solid;
 .commentform2 #main .buttoncontact {
 text-transform:uppercase;
 background:transparent;
-color:#c2cfbe;
+color:#b95545;
 margin: 21px auto 0 auto ;
 padding:15px 40px;
 border:none;
 box-shadow:none;
 outline:none;
-border:1px solid #c2cfbe;
+border:1px solid #b95545;
 transition: all .3s;
 -moz-transition: all .3s; 
 -webkit-transition:all .3s; 
@@ -2391,17 +2391,17 @@ transition: all .3s;
 width:102%;
 }
 #main .buttoncontact:hover {
-	border: 1px solid #fff;
-	color: #fff;
-	border-color: #fff;
+	border: 1px solid #b95545;
+	color: #b95545;
+	border-color: #b95545;
 	border-width: 0;
 }
 
 
-#main ::-webkit-input-placeholder { color:#c2cfbe; }
-#main ::-moz-placeholder { color:#c2cfbe; } 
-#main :-ms-input-placeholder { color:#c2cfbe; } 
-#main :input:-moz-placeholder { color:#c2cfbe; }
+#main ::-webkit-input-placeholder { color:#b95545; }
+#main ::-moz-placeholder { color:#b95545; } 
+#main :-ms-input-placeholder { color:#b95545; } 
+#main :input:-moz-placeholder { color:#b95545; }
 
 .footerbottom h5 {
 text-align:center;
@@ -2420,7 +2420,7 @@ margin:63px auto 0 auto;max-width:250px;float:none;
 }
 
 .paginationblog a:link, .paginationblog a:visited{
-background:#c2cfbe;
+background:#b95545;
 color:#fff;
 padding:5px 15px;
 float:left;
@@ -2437,10 +2437,10 @@ font-size:18px;
 
 .paginationblog a:hover{
 background:#c3594b;
-color:#c2cfbe;
+color:#b95545;
 }
 .paginationblog p{
-color:#c2cfbe;float:left;margin:10px 10px 0 0;
+color:#b95545;float:left;margin:10px 10px 0 0;
 }
 
 /******blog pages end******/
