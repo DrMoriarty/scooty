@@ -936,7 +936,7 @@ margin:0px auto 0 auto;
 cursor:pointer;
 display:block;
 font-size:24px;
-color:##b95545;
+color:#b95545;
 text-transform:uppercase;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
@@ -957,10 +957,17 @@ border:#fff 1px solid;
 
 
 .panel-heading{
-width:50%;
+width:100%;
 float:left;
 background:#fff;
 border:none;
+ border-bottom-width: 1px;
+ border-right-width: 0px;
+ border-left-width: 0px;
+ border-top-width: 0px;
+ border-color: #b95545;
+ border-style: solid;
+ font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px;
 border-radius:0;
 webkit-border-radius:0;
 -moz-border-radius:0;
@@ -974,7 +981,7 @@ margin:21px 0 0 0;
 
 
 .panel-heading:hover{
-background:#b95545;
+background:#fff;
 }
 
 #accordion h4.active {
