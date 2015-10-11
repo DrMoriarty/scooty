@@ -928,7 +928,7 @@ text-transform:uppercase;
 
 
 .bloghomepagebutton a:link, .bloghomepagebutton a:visited{
-border:#c2cfbe 1px solid;
+border:#b95545 2px solid;
 padding:10px 0;
 text-align:center;
 width:98%;
@@ -936,7 +936,7 @@ margin:0px auto 0 auto;
 cursor:pointer;
 display:block;
 font-size:24px;
-color:#c2cfbe;
+color:##b95545;
 text-transform:uppercase;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
@@ -957,14 +957,14 @@ border:#fff 1px solid;
 
 
 .panel-heading{
-width:100%;
+width:50%;
 float:left;
-background:#b95545;
+background:#fff;
 border:none;
 border-radius:0;
 webkit-border-radius:0;
 -moz-border-radius:0;
-padding:5px;
+padding:3px;
 margin:21px 0 0 0;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
@@ -992,7 +992,7 @@ text-decoration:none;
 }
 
 h4.panel-heading a{
-font-size:22px;
+font-size:15px;
 display:block;
 margin:0;
 text-transform:uppercase;
