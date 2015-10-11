@@ -983,20 +983,20 @@ background:#b95545;
 
 
 .panel-heading a{
-border:1px #1b191b solid;
+border:0px;
 display:block;
 text-align:center;
 cursor: pointer;
-padding:10px 0;
+padding:8px 0;
 text-decoration:none;
 }
 
 h4.panel-heading a{
-font-size:24px;
+font-size:22px;
 display:block;
 margin:0;
 text-transform:uppercase;
-color:#333333;
+color:#b95545;
 }
 
 .panel{
@@ -1010,8 +1010,8 @@ padding-bottom:0;
 .panel-body{
 width:100%;
 float:left;
-color:#c2cfbe;
-padding:21px 0 0 0;
+color:#b95545;
+padding:19px 0 0 0;
 text-align:center;
 }
 
