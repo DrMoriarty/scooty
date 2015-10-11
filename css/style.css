@@ -893,7 +893,7 @@ width:96%;margin-bottom:21px;
 .bloghomepagecolumn{
 margin:0 2%;
 padding:10px;
- border:1px #c2cfbe solid;
+ border:1px #b95545 solid;
    overflow: hidden;
    position: relative;
    text-align: center;
@@ -901,28 +901,30 @@ padding:10px;
 
 .bloghomepagecolumn img{
 
- border:1px #c2cfbe solid;
+ border:1px #b95545 solid;
  
 }
 
 
 
 .bloghomepagetext{
-background:#b95545;
+background:#fff;
 margin-top:21px;
 text-align:center;
 margin:0px 2% 0 2%;
 padding:15px;
+color:#b95545;
 }
 .bloghomepagetextborder{
 margin:0;
 border:0px;
 display:block;
-padding:20px ;
+padding:15px;
 }
 
 .bloghomepagetext h4{
 font-size:30px;
+color:#b95545;
 text-transform:uppercase;
 }
 
@@ -936,7 +938,8 @@ margin:0px auto 0 auto;
 cursor:pointer;
 display:block;
 font-size:24px;
-color:#b95545;
+color:#fff;
+background:#b95545;
 text-transform:uppercase;
 -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
@@ -945,8 +948,9 @@ text-transform:uppercase;
 }
 
 .bloghomepagebutton a:hover{
-color:#fff;
-border:#fff 1px solid;
+color:#b95545;
+border:#b95545 2px solid;
+background:#fff;
 }
 
 /*********bloghomepage end*********/
@@ -1000,7 +1004,7 @@ text-decoration:none;
 }
 
 h4.panel-heading a{
-font-size:15px;
+font-size:20px;
 display:block;
 margin:0;
 text-transform:uppercase;
