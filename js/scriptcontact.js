@@ -1,7 +1,7 @@
-$(function() {
+ï»¿$(function() {
     var paraTag = $('input#submit').parent('p');
     $(paraTag).children('input').remove();
-    $(paraTag).append('<input type="button" name="submit" id="submit" value="îòïğàâèòü" class="buttoncontact" />');
+    $(paraTag).append('<input type="button" name="submit" id="submit" value="Ğ¾Ñ‚Ğ¿Ñ€Ğ°Ğ²Ğ¸Ñ‚ÑŒ" class="buttoncontact" />');
 
     $('#main input#submit').click(function() {
         $('#main').append('<img src="images/loader.gif" class="loaderIcon" alt="" />');
