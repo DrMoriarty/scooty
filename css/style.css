@@ -1520,7 +1520,7 @@ background:url(../images/deviantarticon.png) center center no-repeat;
 .footerwrapper {
 width:100%;
 float:left;
-background:#060505;
+background:#b95545;
 padding-top:21px;
 padding-bottom:21px;
 position:relative;
@@ -2284,7 +2284,7 @@ margin-bottom:42px;
 .commentform2 #main input{
 font-size:18px;
 
-color:#c2cfbe;
+color:#b95545;
 border:none;
 box-shadow:none;
 outline:none;
@@ -2295,10 +2295,10 @@ width:100%;
 }
 
 #main .contact1 input {
-color:#c2cfbe;
+color:#b95545;
 background:transparent;
 box-shadow:none;
-border:#c2cfbe 1px solid;
+border:#b95545 1px solid;
 box-shadow:none;
 outline:none;
 height:57px;
@@ -2311,16 +2311,16 @@ margin-bottom:0px;
 #main .contact1 input:focus {
 box-shadow:none;
 outline:none;
-border:#fff 1px solid;
+border:#b95545 1px solid;
 }
 
 
 
 #main .contact2 input {
-	color: #c2cfbe;
+	color: #b95545;
 	background: transparent;
 	box-shadow: none;
-	border: #c2cfbe 1px solid;
+	border: #b95545 1px solid;
 	box-shadow: none;
 	outline: none;
 	height: 57px;
