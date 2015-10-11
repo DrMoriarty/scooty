@@ -961,12 +961,6 @@ width:100%;
 float:left;
 background:#fff;
 border:none;
- border-bottom-width: 1px;
- border-right-width: 0px;
- border-left-width: 0px;
- border-top-width: 0px;
- border-color: #b95545;
- border-style: solid;
  font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px;
 border-radius:0;
 webkit-border-radius:0;
@@ -985,7 +979,14 @@ background:#fff;
 }
 
 #accordion h4.active {
-background:#fff;  
+background:#fff;
+ border-bottom-width: 1px;
+ border-right-width: 0px;
+ border-left-width: 0px;
+ border-top-width: 0px;
+ border-color: #b95545;
+ border-style: solid;
+ font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: 0px;  
 }
 
 
