@@ -2276,7 +2276,7 @@ margin-bottom:42px;
 font-size:18px;
 
 color:#b95545;
-border:none;
+border:#b95545 1px solid;
 box-shadow:none;
 outline:none;
 border-radius:0;
@@ -2329,7 +2329,6 @@ border:#b95545 1px solid;
 	outline: none;
 	border: #b95545 1px solid;
 	border-color: #b95545;
-	border-width: 0;
 }
 
 
@@ -2371,7 +2370,7 @@ background:transparent;
 color:#b95545;
 margin: 21px auto 0 auto ;
 padding:15px 40px;
-border:none;
+border:#b95545 1px solid;
 box-shadow:none;
 outline:none;
 border:1px solid #b95545;
