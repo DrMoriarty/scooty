@@ -2366,13 +2366,9 @@ border:#b95545 1px solid;
 
 .commentform2 #main .buttoncontact {
 text-transform:uppercase;
-background:transparent;
 color:#b95545;
 margin: 21px auto 0 auto ;
 padding:15px 40px;
-border:#b95545 1px solid;
-box-shadow:none;
-outline:none;
 border:1px solid #b95545;
 transition: all .3s;
 -moz-transition: all .3s; 
