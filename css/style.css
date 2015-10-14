@@ -442,7 +442,7 @@ border:#b95545 0px solid;
 border-radius:0;
 -webkit-border-radius:0;
 -moz-border-radius:0;
-color:#fff;
+color:#d9a299;
 border:#b95545 0px solid;
 }
 
@@ -464,7 +464,7 @@ left:0;
 left:-9999px;
 }
 .firstnav .navbar-nav li ul li ul  {
-postion:absolute;
+/***postion:absolute;***/
 left:-9999px;
 }
 
@@ -508,7 +508,7 @@ border:#fff 0px solid;
 
 
 .firstnav .navbar-nav > li > ul > li > a:hover{
-color:#e4beb8;
+color:#fff;
 border:#b95545 0px solid;
 }
 .firstnav .navbar-nav > li:hover ul{ 
