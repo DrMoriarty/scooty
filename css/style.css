@@ -1379,13 +1379,13 @@ transition: all .3s;
 #main .contact2 input:focus {
 box-shadow:none;
 outline:none;
-border:#fff 1px solid;
+border:#b95545 1px solid;
 }
 
 
 
 #main .textarea{
-border:#b95545 0px solid;
+border:#b95545 1px solid;
 font-size:18px;
 
 color:#b95545;
