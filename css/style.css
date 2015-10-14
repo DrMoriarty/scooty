@@ -1410,7 +1410,7 @@ transition: all .3s;
 #main .textarea:focus{
 box-shadow:none;
 outline:none;
-border:#fff 0px solid;
+border:#b95545 1px solid;
 }
 
 
