@@ -1354,7 +1354,7 @@ margin-bottom:0px;
 #main .contact1 input:focus {
 box-shadow:none;
 outline:none;
-border:#fff 1px solid;
+border:#b95545 1px solid;
 }
 
 
@@ -1424,7 +1424,7 @@ border:#b95545 1px solid;
 	border: none;
 	box-shadow: none;
 	outline: none;
-	border: 0px solid #b95545;
+	border: 1px solid #b95545;
 	transition: all 0.3с ease 0с;
 	-webkit-transition: all 0.3с ease 0с;
 	-o-transition: all 0.3с ease 0с;
