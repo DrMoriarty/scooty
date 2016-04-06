@@ -421,7 +421,7 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 	position:absolute;
 	bottom:0;
 	top:-90px;
-	left:0;
+	left:-20;
 	right:20;
 	text-align:center;
 	z-index:44;
