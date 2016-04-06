@@ -422,7 +422,7 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 	bottom:0;
 	top:-90px;
 	left:0;
-	right:0;
+	right:40;
 	text-align:center;
 	z-index:44;
 }
