@@ -80,18 +80,7 @@ img{
 	z-index:-1;
 }
 .bg:before{
-	content: ' ';
-	position:absolute;
-	height:100%;
-	margin-top:-260px;
-	width:600px;
-	background:#FFF;
-	z-index:2;
-	-webkit-transform:rotate(45deg);
-	-moz-transform:rotate(45deg);
-	-ms-transform:rotate(45deg);
-	-o-transform:rotate(45deg);
-	transform:rotate(45deg);
+
 }
 .main-content{
 	position:fixed;
@@ -101,9 +90,7 @@ img{
 	right:65px;
 	bottom:65px;
 	background:#FFF;
-	-webkit-box-shadow: 0 0 60px 0 rgba(0,0,0,.18);
-	-moz-box-shadow: 0 0 60px 0 rgba(0,0,0,.18);
-	box-shadow: 0 0 60px 0 rgba(0,0,0,.18);
+
 }
 .section{
 	position:absolute;
