@@ -419,10 +419,10 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 }
 .person-img{
 	position:absolute;
-	bottom:-20;
-	top:-20px;
+	bottom:-10;
+	top:-10px;
 	left:0;
-	right:40;
+	right:60;
 	text-align:center;
 	z-index:44;
 }
