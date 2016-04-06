@@ -208,9 +208,7 @@ body.loaded #preloader{
 	line-height:64px;
 	border-radius:50%;
 	background:#009688;
-	-webkit-box-shadow: 0 3px 15px 0 rgba(0,0,0,.18);
-	-moz-box-shadow: 0 3px 15px 0 rgba(0,0,0,.18);
-	box-shadow: 0 3px 15px 0 rgba(0,0,0,.18);
+
 	top:50%;
 	margin-top:-32px;
 	left:-32px;
@@ -223,9 +221,7 @@ body.loaded #preloader{
 	transition:all .3s ease;
 }
 .menu-btn:hover{
-	-webkit-box-shadow: 0 10px 35px 0 rgba(0,0,0,.18);
-	-moz-box-shadow: 0 10px 35px 0 rgba(0,0,0,.18);
-	box-shadow: 0 10px 35px 0 rgba(0,0,0,.18);
+
 }
 .menu-btn > .lines{
 	vertical-align:middle;
@@ -376,9 +372,7 @@ body.show-menu .menu-items > ul > li > a{
 	transition:all .3s ease;
 }
 .menu-items > ul > li > a:hover > i{
-	-webkit-box-shadow: 0 10px 40px 0 rgba(0,0,0,.18);
-	-moz-box-shadow: 0 10px 40px 0 rgba(0,0,0,.18);
-	box-shadow: 0 10px 40px 0 rgba(0,0,0,.18);
+
 	background:#009688;
 	color:#FFF;
 }
