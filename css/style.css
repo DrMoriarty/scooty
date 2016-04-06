@@ -420,7 +420,7 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 .person-img{
 	position:absolute;
 	bottom:0;
-	top:350px;
+	top:-55px;
 	left:0;
 	right:0;
 	text-align:center;
