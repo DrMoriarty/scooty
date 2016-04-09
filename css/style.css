@@ -419,6 +419,8 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 }
 .person-img{
 	position:absolute;
+	display:block;
+	margin: auto;
 	bottom:-20px;
 	top:-20px;
 	left:0;
