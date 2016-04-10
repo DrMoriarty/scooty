@@ -513,9 +513,12 @@ a.btn-material{
 	transition:all .3s ease;
 }
 .btn-material:hover{
-	-webkit-box-shadow: 0 10px 35px 0 rgba(0,0,0,.14);
-	-moz-box-shadow: 0 10px 35px 0 rgba(0,0,0,.14);
-	box-shadow: 0 10px 35px 0 rgba(0,0,0,.14);
+	background:#FFF;
+	color:#5daddb;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border-color:#5daddb;
 }
 .btn-material.btn-secondary{
 	background:#FFF;
