@@ -418,11 +418,11 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 	position:relative;
 }
 .person-img{
-	position:fixed;
-	bottom:-50px;
-	top:-5px;
+	position:absolute;
+	bottom:-30px;
+	top:-10px;
 	left:0;
-	right:60;
+	right:20px;
 	text-align:center;
 	z-index:44;
 }
