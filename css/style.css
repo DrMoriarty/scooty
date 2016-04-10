@@ -430,11 +430,11 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 	LOGO
 =================================================================================*/
 .logos-img{
-	position:absolute;
+	position:fixed;
 	top:10px;
 	left:0px;
 	right:0px;
-	text-align:center;
+	text-align:left;
 	z-index:70;
 }
 /*=================================================================================
