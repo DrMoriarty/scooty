@@ -432,9 +432,7 @@ body.show-menu .menu-items > ul > li:nth-of-type(7) > a{
 .logos-img{
 	position:fixed;
 	top:-5px;
-	left:10px;
-	right:0px;
-	text-align:left;
+	text-align:center;
 	z-index:70;
 }
 /*=================================================================================
